@@ -1,2 +1,7 @@
 # Data-Analytics-completion-certificate-in-Novi-Tech-R-D-Pvt.-Ltd
-Completed a one-month Data Analytics internship at NoviTech R&amp;D Pvt. Ltd. (May 21 – June 21, 2025). Worked on real-time projects using SQL, Power BI, Tableau, and Python. Gained hands-on experience in data cleaning, visualization, and business insight generation. This internship helped me apply analytics to solve real-world problems.
+Completed a 30-day MasterClass in Data Analytics at NoviTech R&D Pvt. Ltd.
+Learned Excel, SQL, Power BI, Tableau, and Python through hands-on projects.
+Applied EDA and dashboarding techniques on real-world datasets.
+Gained strong foundational and practical analytics skills.
+
+
